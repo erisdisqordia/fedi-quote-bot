@@ -1,0 +1,11 @@
+# URL = The domain of your fedi bot account, starting with https://
+# USERNAME and PASSWORD refer to your fedi account (only you can see it)
+URL="https://botsin.space"
+USERNAME="myfediusername"
+PASSWORD="myfedipassword"
+
+# Fedi post visibility
+VISIBILITY="public"
+
+# File where quotes are stored
+QUOTEFILE="example-quotes.txt"
