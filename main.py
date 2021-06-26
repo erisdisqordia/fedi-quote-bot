@@ -3,6 +3,7 @@ from xml.sax import saxutils as su
 import config
 import random
 import argparse
+import readline
 
 parser = argparse.ArgumentParser(description="Random quote bot for the fediverse")
 parser.add_argument('-q', '--quote', help="Add a new quote", action="store_true")
